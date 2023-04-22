@@ -4,7 +4,7 @@ I'm Prathmesh Pol, aka Pratham. I'm a first-year engineering student with a pass
 
 ## 🔭 Current Projects
 
-</-- [Project 1](https://github.com/username/project1): Short description of the project
+<!-- [Project 1](https://github.com/username/project1): Short description of the project
 - [Project 2](https://github.com/username/project2): Short description of the project -->
 
 ## 🌱 I'm currently learning
@@ -15,7 +15,7 @@ I'm Prathmesh Pol, aka Pratham. I'm a first-year engineering student with a pass
 ## 📫 How to reach me
 
 - Email: prathmesh.pol.2004@gmail.com
-- LinkedIn: [Prathmesh POl](https://www.linkedin.com/in/prathmesh-pol-6b978720b)
+- LinkedIn: [Prathmesh Pol](https://www.linkedin.com/in/prathmesh-pol-6b978720b)
 - Instagram: [prathmesh_pol_2004](https://www.instagram.com/prathmesh_pol_2004/)
 
 ## 🤝 Let's collaborate!
