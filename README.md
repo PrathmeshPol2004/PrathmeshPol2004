@@ -9,11 +9,6 @@ Hello! I'm Prathmesh Pol, a college student with a passion for Development, Comm
 - **BSIOTER JSPM**  
   ELECTRICAL ENGG
 
-- **Relevant Coursework:**  
-  - [Course 1]
-  - [Course 2]
-  - [Course 3]
-
 ## Skills
 
 Although I may not have professional experience, I've developed several skills during my studies and personal projects:
