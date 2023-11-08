@@ -15,8 +15,8 @@ Although I may not have professional experience, I've developed several skills d
 
 - **Technical Skills:**
   - Programming
-  - Marketing
-  - Management 
+  - Ui/UX Developer 
+  - Community Management 
   
 - **Soft Skills:**
   - Leadership & Teamwork
