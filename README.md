@@ -1,7 +1,7 @@
 # Pratham
 
-about me:-
-अहम् अस्मि असफलः यावत् जयामि, नास्ति सीधुक्रमः, क्षमया मानं आरजामि।
+"
+अहम् अस्मि असफलः यावत् जयामि, नास्ति सीधुक्रमः, क्षमया मानं आरजामि।"
 ## Introduction
 
 Hello! I'm Prathmesh Pol, a college student with a passion for Development, Community management, and UI & UX. <br> While I may not have prior work experience or completed projects to display at the moment, I am eager to learn and grow in the Technical industry. <br> 
