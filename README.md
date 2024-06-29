@@ -20,7 +20,7 @@
 
 
 
-- 👋 Hi, I’m @MdAmiruddin
+- 👋 Hi, I’m Pratham
 - 👀 I’m a CyberSecurity Enthusiast.
 - 🌱 I’m currently learning with Google.
 - 💞️ I’m looking to collaborate with cybersecurity python projects.
