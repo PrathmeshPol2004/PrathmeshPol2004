@@ -18,20 +18,22 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathmeshpol2004" alt="prathmeshpol2004" /></a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/relaxingpratham" target="blank"><img src="https://img.shields.io/twitter/follow/relaxingpratham?logo=twitter&style=for-the-badge" alt="relaxingpratham" /></a>
-</p>
+## <picture>
+**About me**
+<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDkzOGQwM3Y5dnBrbGlhNHdxM2NodmdxODkwczd4cXQ0YXJ2dzVmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yyWNyyjNIpp4kd98E/giphy-downsized-large.gif"></picture>
 
-## About Me
+<br>
 
-- 👋 Hi, I’m Pratham
-- 👀 I’m currently working on web development projects
-- 🌱 I’m learning project management and cybersecurity
-- 👯 I’m looking to collaborate on multiple projects
-- 🤝 I’m looking for help with community building
-- 💬 Ask me about hosting, digital marketing, etc.
-- 📝 I regularly write articles on [Tech Growth](Tech Growth.)
-- 📫 How to reach me: [prathmesh_pol_2004@outlook.com](mailto:prathmesh_pol_2004@outlook.com)
+
+
+- 👋 Hi, I’m @PrathmeshPol2004
+- 👀 I’m a design Enthusiast.
+- 🌱 I’m currently learning UI/UX.
+- 💞️ I’m looking to collaborate with Web projects.
+- 📫 How to reach me .. By my youtube [channel](https://www.youtube.com/@prathmesh_pol_2004_).
+- 📝 I write CTF [Blog](https://naikpratham.blogspot.com/) and articles on [Medium](https://mdamiruddin.medium.com).
+- Feel free to connect with me on Linkedin.
+- Learning new technologies everyday to become better than my past self.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
