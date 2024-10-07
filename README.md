@@ -13,10 +13,6 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student%2C;Bug+Bounty+Hunter%2C;Content+Writer%2C;Active+Learner%2FResearcher..<3"></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathmeshpol2004" alt="prathmeshpol2004" /></a>
 </p>
 
