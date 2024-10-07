@@ -11,13 +11,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=UI/UX+Student,;Bug+Bounty+Hunter,;Content+Writer,;Active+Learner/Researcher..<3"></a>
 </p>
 
-**About me**
-<picture> <img align="right" src="[https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif](https://tenor.com/9wUn.gif)"></picture>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathmeshpol2004" alt="prathmeshpol2004" /></a>
-</p>
-
 ## <picture>
 **About me**
 <picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDkzOGQwM3Y5dnBrbGlhNHdxM2NodmdxODkwczd4cXQ0YXJ2dzVmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yyWNyyjNIpp4kd98E/giphy-downsized-large.gif"></picture>
