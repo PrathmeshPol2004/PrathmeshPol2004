@@ -34,7 +34,7 @@
   <a href="https://linkedin.com/in/prathmesh-pol-6b978720b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathmesh-pol-6b978720b" height="30" width="40" /></a>
   <a href="https://codesandbox.com/prathmeshpol2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="prathmeshpol2004" height="30" width="40" /></a>
   <a href="https://instagram.com/prathmesh_pol_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prathmesh_pol_2004" height="30" width="40" /></a>
-  <a href="https://discord.gg/your_discord_invite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="your_discord_invite" height="30" width="40" /></a>
+  <!--<a href="https://discord.gg/your_discord_invite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="your_discord_invite" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -60,7 +60,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 </p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathmeshpol2004&show_icons=true&locale=en&layout=compact" alt="prathmeshpol2004" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathmeshpol2004&show_icons=true&locale=en&layout=compact" alt="prathmeshpol2004" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=prathmeshpol2004&show_icons=true&locale=en" alt="prathmeshpol2004" /></p>
 
