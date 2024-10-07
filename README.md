@@ -12,7 +12,7 @@
 </p>
 
 **About me**
-<picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif"></picture>
+<picture> <img align="right" src="[https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif](https://tenor.com/9wUn.gif)"></picture>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathmeshpol2004" alt="prathmeshpol2004" /></a>
