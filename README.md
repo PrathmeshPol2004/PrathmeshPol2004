@@ -23,10 +23,10 @@
 - 👀 I’m a design Enthusiast.
 - 🌱 I’m currently learning UI/UX.
 - 💞️ I’m looking to collaborate with Web projects.
-- 📫 How to reach me .. By my youtube [channel](https://www.youtube.com/@prathmesh_pol_2004_).
-- 📝 I write CTF [Blog](https://naikpratham.blogspot.com/) and articles on [Medium](https://mdamiruddin.medium.com).
-- Feel free to connect with me on Linkedin.
-- Learning new technologies everyday to become better than my past self.
+- 📫 How to reach me .. By my YouTube [channel](https://www.youtube.com/@prathmesh_pol_2004_).
+- 📝 I write CTF [Blog](https://prathmesh-pol-2004.blogspot.com/) and articles on [Medium](https://mdamiruddin.medium.com).
+- Feel free to contact me on [Linkedin](https://www.linkedin.com/in/prathmesh-pol-6b978720b/).
+- Learning new technologies every day to become better than my past self.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
