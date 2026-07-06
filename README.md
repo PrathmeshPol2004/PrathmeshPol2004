@@ -64,6 +64,7 @@ Creator & Business Collaboration Platform
 Building 100 projects to improve my skills in development, AI, automation, and business.
 
 ---
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prathmeshpol2004" alt="prathmeshpol2004" /></p> )
 
 # 🛠 Skills
 
