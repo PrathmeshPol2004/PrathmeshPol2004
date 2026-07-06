@@ -11,8 +11,7 @@ I'm passionate about solving practical business problems through technology, ren
 </p>
 
 ---
-## <picture> **About me** <picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDkzOGQwM3Y5dnBrbGlhNHdxM2NodmdxODkwczd4cXQ0YXJ2dzVmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yyWNyyjNIpp4kd98E/giphy-downsized-large.gif"></picture>
-# 🚀 About Me
+# <picture> **About me** <picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDkzOGQwM3Y5dnBrbGlhNHdxM2NodmdxODkwczd4cXQ0YXJ2dzVmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yyWNyyjNIpp4kd98E/giphy-downsized-large.gif"></picture>
 
 - 🎯 Currently looking for opportunities in **Business Development, Sales, Growth & Renewable Energy**
 - 🌱 Learning **Web Development, AI, Business Development, Sales & Renewable Energy**
